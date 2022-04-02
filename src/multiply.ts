@@ -1,4 +1,4 @@
-function multiply(x: any, y: any) {
+function Multiply(x: any, y: any) {
   // buat param number 
   return x * y;  
 
@@ -9,4 +9,4 @@ function multiply(x: any, y: any) {
   */
 }
 
-export default multiply; 
+export default Multiply; 
